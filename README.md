@@ -1,5 +1,4 @@
 # Image Steganography Tool 🤖
-![First Look](https://github.com/k-sameer701/GitHub-images/blob/main/Screenshot%20(2239).png)
 
 ## Overview
 
@@ -52,7 +51,7 @@ python3 app.py
 
 ## Usage 💻:
 
-# Encrypting Message 
+## Encrypting Message 
 
 1. Open the app on your system.
 2. Select the image 
@@ -61,7 +60,7 @@ python3 app.py
 5. A new image file will be created with name untitle.png
 6. The encrypted message is now hidden in untitle.png
 
-# Decrypting Message
+## Decrypting Message
 
 1. Open Show tab.
 2. Select the image .
@@ -69,5 +68,4 @@ python3 app.py
 4. If the image has some encrypted text, the message will be displayed on the new window.
 
 ## Developer
-
-# Sameer Kumar - [k-sameer701](https://github.com/k-sameer701)
+Sameer Kumar - [k-sameer701](https://github.com/k-sameer701)
