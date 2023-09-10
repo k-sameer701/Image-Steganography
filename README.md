@@ -1,4 +1,5 @@
 # Image Steganography Tool 🤖
+![First Look](https://github.com/k-sameer701/GitHub-images/blob/main/Screenshot%20(2239).png)
 
 ## Overview
 
@@ -21,4 +22,52 @@ The Image Steganography Tool is a simple yet powerful utility for hiding and ext
 
 3. **Usage**: Refer to the user manual or documentation for instructions on how to use the tool effectively.
 
+## Prerequisites
+Before you begin, ensure you meet the following requirements:
+* Python3
+* Tkinter
+* Customtkinter
+* stegano
+* PIL
 
+## Setup
+
+1. Clone the Repository:
+   
+```bash
+git clone https://github.com/k-sameer701/Image-Steganography.git
+```
+
+2. Navigate to the Project Directory:
+   
+```
+cd Image-Steganography
+```
+
+3. Run the app:
+   
+```bash   
+python3 app.py
+```
+
+## Usage 💻:
+
+# Encrypting Message 
+
+1. Open the app on your system.
+2. Select the image 
+3. Write the message you want to encrypt in the message box.
+4. Press the Encrypt Button.
+5. A new image file will be created with name untitle.png
+6. The encrypted message is now hidden in untitle.png
+
+# Decrypting Message
+
+1. Open Show tab.
+2. Select the image .
+3. Press the Decrypt Button.
+4. If the image has some encrypted text, the message will be displayed on the new window.
+
+## Developer
+
+# Sameer Kumar - [k-sameer701](https://github.com/k-sameer701)
