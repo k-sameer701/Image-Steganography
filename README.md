@@ -24,8 +24,8 @@ The Image Steganography Tool is a simple yet powerful utility for hiding and ext
 ## Prerequisites
 Before you begin, ensure you meet the following requirements:
 * Python3
-* Tkinter
-* Customtkinter
+* Tkinter (Used for creating GUI's)
+* Customtkinter   (Used for creating Modern GUI's)
 * stegano
 * PIL
 
