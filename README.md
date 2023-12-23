@@ -4,6 +4,10 @@
 
 The Image Steganography Tool is a simple yet powerful utility for hiding and extracting secret data within digital images. This tool allows you to securely transmit information, protect your images with watermarks, or conceal sensitive data, all while maintaining the image's visual integrity.
 
+![Stegano](https://github.com/k-sameer701/Image-Steganography/assets/103239208/ee9950d9-1a01-4a9b-95d8-1490970aae22)
+
+
+
 ## Features
 
 - **Embedding**: Seamlessly hide text or another image within the least significant bits of the pixel values in your chosen image.
