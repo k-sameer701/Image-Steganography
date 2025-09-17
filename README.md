@@ -87,5 +87,5 @@ This project is licensed under the [GPL-3 License](LICENSE).
 </div>
 <br/>
 <div align="center">
-    <h4>Image Steganography &copy Sameer Kumar 2024</h4>
+    <h4>Image Steganography &copy Sameer Kumar 2025</h4>
 </div>
